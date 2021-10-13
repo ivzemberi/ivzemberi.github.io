@@ -13,10 +13,10 @@ permalink: /aint-wet/
   </div>
 </head>
 <body>
-    <div class="section is-centered" style="text-align: center; font-size: large">
+    <div class="section is-centered" style="text-align: justify; font-size: large">
         <p>
             The task was to create <strong style="color: gray">user-friendly</strong> website prototype for existing web-shop page.
-            The page in question: <a href="http://aintwet.nyc/" target="_blank">Web-shop Page</a>
+            The page in question: <a href="http://aintwet.nyc/" target="_blank">Web-shop Page</a>.
         </p>
         <p>
             Group consisted of <strong style="color: gray">three people</strong>, and time was limited.
@@ -38,7 +38,7 @@ permalink: /aint-wet/
                 </figure>
             </div>
         </div>
-    <div class="section is-centered" style="text-align: center; font-size: large">
+    <div class="section is-centered" style="text-align: justify; font-size: large">
         <p>
             The goal was to change it from <strong style="color: gray">Figure 1</strong> to something 
             that looked like a Web-shop straight away, like <strong style="color: gray">Figure 2</strong>.
@@ -89,7 +89,7 @@ permalink: /aint-wet/
             </div>
         </div>
         <p><strong style="font-size: larger">3) Connect pages into interactive prototype.</strong></p>
-        <p class="section is-centered">You can test the prototype by clicking on this <a href="https://marvelapp.com/prototype/8353595/screen/78001360" target="_blank"><strong>link</strong></a>.</p>
+        <p class="section is-centered" style="font-size: large">You can test the prototype by clicking on this <a href="https://marvelapp.com/prototype/8353595/screen/78001360" target="_blank"><strong>link</strong></a>.</p>
     </div>
 </body>
 </html>
