@@ -47,20 +47,20 @@ permalink: /aint-wet/
     <div class="section is-vcenetered">
         <h3 class="subtitle is-3">Design Process</h3>
         <p><strong style="font-size: larger">1) Make wireframes.</strong></p>
-        <div class="section columns is-vcentered is-centered">
-            <div class="column is-vcentered">
+        <div class="section is-vcentered is-centered">
+            <div>
                 <figure>
                     <img src="/images/aint-wet-home.png">
                     <figcaption class="text-center" style="font-family: 'Open Sans'">Wireframe of Home Page</figcaption>
                 </figure>
             </div>
-            <div class="column is-vcentered">
+            <div>
                 <figure>
                     <img src="/images/aint-wet-shop.png">
                     <figcaption class="text-center" style="font-family: 'Open Sans'">Wireframe of Shop Page</figcaption>
                 </figure>
             </div>
-            <div class="column is-vcentered">
+            <div>
                 <figure>
                     <img src="/images/aint-wet-cart.png">
                     <figcaption class="text-center" style="font-family: 'Open Sans'">Wireframe of Cart Page</figcaption>
@@ -68,20 +68,20 @@ permalink: /aint-wet/
             </div>
         </div>
         <p><strong style="font-size: larger">2) Design prototype based on wireframes.</strong></p>
-        <div class="section columns is-vcentered is-centered">
-            <div class="column is-vcentered">
+        <div class="section is-vcentered is-centered">
+            <div>
                 <figure>
                     <img src="/images/aint-wet-home-marvel.png">
                     <figcaption class="text-center" style="font-family: 'Open Sans'">Prototype of Home Page</figcaption>
                 </figure>
             </div>
-            <div class="column is-vcentered">
+            <div>
                 <figure>
                     <img src="/images/aint-wet-shop-marvel.png">
                     <figcaption class="text-center" style="font-family: 'Open Sans'">Prototype of Shop Page</figcaption>
                 </figure>
             </div>
-            <div class="column is-vcentered">
+            <div>
                 <figure>
                     <img src="/images/aint-wet-cart-marvel.png">
                     <figcaption class="text-center" style="font-family: 'Open Sans'">Prototype of Cart Page</figcaption>
