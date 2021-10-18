@@ -3,37 +3,106 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+  <title>Portfolio</title> 
   <div class="section is-vcenetered">
     <h1 class="title" style="color: #7a8288">Portfolio</h1>
   </div>
 </head>
 
-<div class="section columns is-centered is-vcentered">
-    <div class="column">
+<div class="section columns is-centered">
+  <div class="card column">
+    <div class="card-image">
+      <a href="/aint-wet/" target="_blank">
+        <figure class="image">
+          <img src="/svgs/aint-wet.svg" alt="Aint Wet Logo">
+        </figure>
+        </a>
+    </div>
+    <div class="media-content">
         <a href="/aint-wet/" target="_blank">
-            <figure>
-                <img src="/svgs/aint-wet.svg">
-                <figcaption class="text-center" style="font-family: 'Open Sans'">
-                    Mini Group Project - Website Prototype
-                </figcaption>
-            </figure>            
+        <p class="title is-4" style="color: #3d4144; text-align: center">Aint Wet</p>
+        <p class="subtitle is-6" style="text-align: center">A prototype for Online Shopping Website.</p>
         </a>
     </div>
-    <div class="column">
+    <div class="content">
+      <p style="text-align: center">March 2021</p>
+    </div>
+  </div>
+  <div class="card column">
+    <div class="card-image">
+      <a href="/nanny-finder/" target="_blank">
+        <figure class="image">
+          <img src="/svgs/nannyfinder.svg" alt="Nanny Finder Logo">
+        </figure>
+      </a>
+    </div>
+      <div class="media-content">
         <a href="/nanny-finder/" target="_blank">
-            <figure>
-                <img src="/svgs/nannyfinder.svg">
-                <figcaption class="text-center" style="font-family: 'Open Sans'">
-                    Group Project - Android App Prototype
-                </figcaption>
-            </figure>
-        </a>
+          <p class="title is-4" style="color: #3d4144; text-align: center">Nanny Finder</p>
+          <p class="subtitle is-6" style="text-align: center">A prototype for Android App.</p>
+        </a> 
+      </div>
+<div class="content" style="text-align: center">
+      <p>September 2020 - January 2021</p>
+  </div></div>
+  </div>
+
+
+
+<div class="section is-vcenetered">
+    <h2 class="title" style="color: #7a8288">Illustrations</h2>
+</div>
+
+<div class="section columns is-centered">
+  <div class="card column">
+    <div class="card-image is-square">
+      <figure>
+        <img src="/svgs/flowers-in-a-box.svg" alt="Flowers Illustration">
+      </figure>
     </div>
+  </div>
+  <div class="card column">
+    <div class="card-image is-square">
+      <figure>
+        <img src="/svgs/penguin-in-a-box.svg" alt="Penguin Illustration">
+      </figure>
+    </div>
+  </div>
+  <div class="card column">
+    <div class="card-image is-square">
+      <figure>
+        <img src="/svgs/turtle-in-a-box.svg" alt="Turtle Illustration">
+      </figure>
+    </div>
+  </div>
+</div>
+<div class="section columns is-centered">
+  <div class="card column">
+    <div class="card-image is-square">
+      <figure>
+        <img src="/svgs/whale.svg" alt="Whale Illustration">
+      </figure>
+    </div>
+  </div>
+  <div class="card column">
+    <div class="card-image is-square">
+      <figure>
+        <img src="/svgs/fishes.svg" alt="Fish Illustration">
+      </figure>
+    </div>
+  </div>
+    <div class="card column">
+    <div class="card-image is-square">
+      <figure>
+        <img src="/svgs/gold-fish.svg" alt="Gold Fish Illustration">
+      </figure>
+    </div>
+  </div>
 </div>
 
 </html>
