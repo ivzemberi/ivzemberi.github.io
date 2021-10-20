@@ -17,14 +17,14 @@ permalink: /portfolio/
 <div class="section columns is-centered">
   <div class="card column">
     <div class="card-image">
-      <a href="/aint-wet/" target="_blank">
+      <a href="/aint-wet/">
         <figure class="image">
           <img src="/svgs/aint-wet.svg" alt="Aint Wet Logo">
         </figure>
         </a>
     </div>
     <div class="media-content">
-        <a href="/aint-wet/" target="_blank">
+        <a href="/aint-wet/">
         <p class="title is-4" style="color: #3d4144; text-align: center">Aint Wet</p>
         <p class="subtitle is-6" style="text-align: center">A prototype for Online Shopping Website.</p>
         </a>
@@ -35,14 +35,14 @@ permalink: /portfolio/
   </div>
   <div class="card column">
     <div class="card-image">
-      <a href="/nanny-finder/" target="_blank">
+      <a href="/nanny-finder/">
         <figure class="image">
           <img src="/svgs/nannyfinder.svg" alt="Nanny Finder Logo">
         </figure>
       </a>
     </div>
       <div class="media-content">
-        <a href="/nanny-finder/" target="_blank">
+        <a href="/nanny-finder/">
           <p class="title is-4" style="color: #3d4144; text-align: center">Nanny Finder</p>
           <p class="subtitle is-6" style="text-align: center">A prototype for Android App.</p>
         </a> 
