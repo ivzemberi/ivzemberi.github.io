@@ -108,9 +108,9 @@ permalink: /nanny-finder/
         </div>
         </div>
         <p class="section is-centered" style="font-size: large">
-            To see an interactive prototype of the app, click on the link below:<br>
+            To see an interactive prototype of the app, click on this link:
         <a href="https://www.figma.com/proto/xaj5JG6MIYrxexDyV3Llq4/Dizajn?node-id=116%3A532&scaling=scale-down" 
-            target="_blank"><strong>https://www.figma.com/proto/xaj5JG6MIYrxexDyV3Llq4/Dizajn?node-id=116%3A532&scaling=scale-down</strong></a>.
+            target="_blank"><strong>Figma interactive prototype</strong></a>.
         </p>
     </div>
     
