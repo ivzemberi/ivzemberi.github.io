@@ -1,6 +1,5 @@
 ---
 title: "Resume"
-layout: categories
 permalink: /resume/
 ---
 <html>
@@ -8,6 +7,9 @@ permalink: /resume/
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+  <div class="section is-vcenetered">
+    <h1 class="title" style="color: #7a8288">Resume</h1>
+  </div>
 </head>
 <div class="section is-centered is-vcentered">
   <div class="column">
