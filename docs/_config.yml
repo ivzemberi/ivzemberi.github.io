@@ -1,0 +1,76 @@
+#Site Settings
+
+lang: en
+title: Ivana Žemberi
+tagline: Ivana Žemberi
+email: ivana@zemberi.me
+description: > #
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zemberi.me" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
+
+paginate: 5 # amount of posts to show
+paginate_path: "/blog/page:num"
+
+favicon: "/images/personal_logo.png"
+
+theme: bulma-clean-theme
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+liverload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Ivana Žemberi"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
+markdown: kramdown
+highlighter: rouge
+
+footer_menu: example_footer_menu
+
+collections:
+  products:
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
+
+timezone: Europe/Berlin
+
