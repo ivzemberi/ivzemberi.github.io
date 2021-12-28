@@ -14,7 +14,7 @@ hide_hero: true
         <p align="center"><img src="images/autor.png" image is-square height="400" width="400"></p>
       </div>
       <div class="column is-size-5">
-        <p align="center">Hi, my name is <strong>Ivana</strong>.</p> 
+        <p align="center">Hi, I'm <strong>Ivana</strong>.</p> 
         <p align="center">I'm a <strong>student</strong> and <strong>design enthusiast</strong> from Croatia.</p>
         <div class="has-text-centered">
           <a href="mailto:ivana@zemberi.me" class="button is-info is-medium is-focused">
