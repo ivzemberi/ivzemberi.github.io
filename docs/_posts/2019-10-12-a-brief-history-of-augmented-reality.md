@@ -73,6 +73,13 @@ AR game for Google Glass, which was demoed at the Mobile World Congress.
 Then, in 2016. Niantic and Nintendo launched Pokemon Go. The hugely popular location-based AR game that put AR on the 
 mainstream map.
 
+<figure align="center">
+    <img src="/blog_assets/pokemon-go-unsplash.jpg">
+    <figcaption align="center">
+        Pokemon Go
+    </figcaption>
+</figure>
+
 And this year, in June 2019. was released another location-based AR game, Wizards Unite.
 
 <figure align="center">
