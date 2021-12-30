@@ -14,7 +14,8 @@ paginate_path: "/blog/page:num"
 
 favicon: "/images/zemberi-logo.png"
 
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
+#theme: bulma-clean-theme
 
 plugins:
   - jekyll-paginate
