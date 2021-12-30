@@ -9,12 +9,10 @@ show_sidebar: false
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <div class="section is-vcenetered">
-    <h1 class="title">Portfolio</h1>
-  </div>
+  <h1 class="title">Portfolio</h1>
 </head>
 
-<div class="section columns is-centered">
+<div class="columns is-centered">
   <div class="column">
     <div class="card-image">
       <a href="/aint-wet/">
@@ -53,13 +51,11 @@ show_sidebar: false
   </div></div>
   </div>
 
+<br><br>
+<h2 class="title">Illustrations</h2>
+<br>
 
-
-<div class="section is-vcenetered">
-    <h2 class="title" style="color: #7a8288">Illustrations</h2>
-</div>
-
-<div class="section columns is-centered">
+<div class="columns is-centered">
   <div class="column">
     <div class="card-image is-square">
       <figure>
@@ -82,7 +78,7 @@ show_sidebar: false
     </div>
   </div>
 </div>
-<div class="section columns is-centered">
+<div class="columns is-centered">
   <div class="column">
     <div class="card-image is-square">
       <figure>
@@ -105,5 +101,4 @@ show_sidebar: false
     </div>
   </div>
 </div>
-
 </html>
