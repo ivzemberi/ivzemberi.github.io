@@ -1,23 +1,28 @@
 ---
 layout: page
-show_sidebar: false
 hide_hero: true
+show_sidebar: false
 ---
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ivana Žemberi</title>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   </head>
   <body>
-    <div class="section columns is-centered is-vcentered">
+    <div class="columns is-centered is-vcentered">
       <div class="column">
-        <p align="center"><img src="images/autor.png" image is-square height="400" width="400"></p>
+        <p align="center"><img src="images/autor.png" alt="Ivana Žemberi" image is-square height="400" width="400"></p>
       </div>
       <div class="column is-size-5">
+        <p align="center">
+            <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_jdgp5o5z.json" background="transparent"  speed="1"  style="width: 50px; height: 50px;" loop autoplay></lottie-player>
+        </p>
         <p align="center">Hi, I'm <strong>Ivana</strong>.</p> 
-        <p align="center">I'm a <strong>student</strong> and <strong>design enthusiast</strong> from Croatia.</p>
+        <p align="center">I am a <strong>UX designer</strong> from Croatia.</p>
         <div class="has-text-centered">
-          <a href="mailto:ivana@zemberi.me" class="button is-info is-medium is-focused">
+          <a href="mailto:ivana@zemberi.me" class="button is-warning is-medium is-focused">
             <span>Get in touch</span>
           </a>
         </div>
