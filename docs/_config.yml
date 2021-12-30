@@ -12,7 +12,7 @@ permalink: pretty
 paginate: 5 # amount of posts to show
 paginate_path: "/blog/page:num"
 
-favicon: "/images/zemberi-logo.png"
+favicon: "/images/transparent-logo.png"
 
 remote_theme: chrisrhymes/bulma-clean-theme
 #theme: bulma-clean-theme
