@@ -14,7 +14,7 @@ paginate_path: "/blog/page:num"
 
 favicon: "/images/transparent-logo.png"
 
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: ivzemberi/bulma-clean-theme
 #theme: bulma-clean-theme
 
 plugins:
