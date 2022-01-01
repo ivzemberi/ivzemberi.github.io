@@ -20,7 +20,7 @@ show_sidebar: false
             <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_jdgp5o5z.json" background="transparent"  speed="1"  style="width: 50px; height: 50px;" loop autoplay></lottie-player>
         </p>
         <p align="center">Hi, I'm <strong>Ivana</strong>.</p> 
-        <p align="center">I am a <strong>UX designer</strong> from Croatia.</p>
+        <p align="center">A <strong>UX designer</strong> from Croatia.</p>
         <div class="has-text-centered">
           <a href="mailto:ivana@zemberi.me" class="button is-warning is-medium is-focused">
             <span>Get in touch</span>
