@@ -17,15 +17,15 @@ show_sidebar: false
             Information Services Management</a>.
         </p>
         <p>
-            The task was to create a product <strong style="color: gray">(from idea to prototype)</strong> 
+            The task was to create a product <strong>(from idea to prototype)</strong> 
             that at the end of semester needed to be sold to a fictional buyer.
         </p>
         <p>
-            I was in a team with <strong style="color: gray">two</strong> other people and the project was successful.
-            We worked on this project <strong style="color: gray">for three months</strong>.
+            I was in a team with <strong>two</strong> other people and the project was successful.
+            We worked on this project <strong>for three months</strong>.
         </p>
         <p>
-            Tools used: <strong style="color: gray">Figma</strong>.
+            Tools used: <strong>Figma</strong>.
         </p>
         <div class="section columns is-centered">
         <div class="column">

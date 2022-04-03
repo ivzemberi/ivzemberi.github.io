@@ -12,13 +12,13 @@ show_sidebar: false
 <body>
     <div class="section is-centered" style="text-align: justify; font-size: large">
         <p>
-            The task was to create <strong style="color: gray">user-friendly</strong> website prototype for existing web-shop page.
+            The task was to create <strong>user-friendly</strong> website prototype for existing web-shop page.
             The page in question: <a href="http://aintwet.nyc/" target="_blank">Web-shop Page</a>.
         </p>
         <p>
-            Group consisted of <strong style="color: gray">three people</strong>, and time was limited.
-            We completed this project in <strong style="color: gray">two 90 minutes sessions</strong>.
-            Tools used: <strong style="color: gray">Draw.io, Marvel</strong>.
+            Group consisted of <strong>three people</strong>, and time was limited.
+            We completed this project in <strong>two 90 minutes sessions</strong>.
+            Tools used: <strong>Draw.io, Marvel</strong>.
         </p> 
     </div>
     <div class="section columns is-centered" style="font-size: large">
@@ -37,8 +37,8 @@ show_sidebar: false
         </div>
     <div class="section is-centered" style="text-align: justify; font-size: large">
         <p>
-            The goal was to change it from <strong style="color: gray">Figure 1</strong> to something 
-            that looked like a Web-shop straight away, like <strong style="color: gray">Figure 2</strong>.
+            The goal was to change it from <strong>Figure 1</strong> to something 
+            that looked like a Web-shop straight away, like <strong>Figure 2</strong>.
         </p>
     </div>
     <div class="section is-vcenetered">
