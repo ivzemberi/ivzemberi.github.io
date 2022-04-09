@@ -25,14 +25,14 @@ hero_darken: true
         <div class="columns">
             <div class="column">
                 <a href="/eco-tote-bag/">
-                <p class="title is-4">Tote bag Design</p>
+                <p class="block title is-4">Tote bag Design</p>
                 </a>
             </div>
-            <div class="column">
-                <span class="tag is-link is-small is-grouped-right">BRAND RESEARCH</span>
-                <span class="tag is-link is-small is-grouped-right">PRODUCT DESIGN</span>
-            </div>
         </div>
+        <p class="block">
+            <span class="tag is-link is-small is-grouped-right">BRAND RESEARCH</span>
+            <span class="tag is-link is-small is-grouped-right">PRODUCT DESIGN</span>
+        </p>
         <p class="subtitle is-5">Design of an environmentally friendly tote bag.</p>
     </div>
     <div class="block">
@@ -54,11 +54,11 @@ hero_darken: true
                 <p class="title is-4">Web store</p>
                 </a>
             </div>
-            <div class="column">
-                <span class="tag is-link is-small is-grouped-right">WEB DESIGN</span>
-                <span class="tag is-link is-small is-grouped-right">REDESIGN</span>
-            </div>
         </div>
+        <p class="block">
+            <span class="tag is-link is-small is-grouped-right">WEB DESIGN</span>
+            <span class="tag is-link is-small is-grouped-right">REDESIGN</span>
+        </p>        
         <p class="subtitle is-5">Redesign of an existing Online Shopping Website.</p>
     </div>
     <div class="block">
@@ -81,11 +81,11 @@ hero_darken: true
                 <p class="title is-4">Android App</p>
                 </a>
             </div>
-            <div class="column">
-                <span class="tag is-link is-small is-grouped-right">USER RESEARCH</span>
-                <span class="tag is-link is-small is-grouped-right">UX DESIGN</span>
-            </div>
         </div>
+        <p class="block">
+            <span class="tag is-link is-small is-grouped-right">USER RESEARCH</span>
+            <span class="tag is-link is-small is-grouped-right">UX DESIGN</span>
+        </p>
         <p class="subtitle is-5">Design of an app that connects parents with nannies looking for a job, and vice versa.</p>
     </div>
     <div class="block">
