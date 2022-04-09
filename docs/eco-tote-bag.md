@@ -105,7 +105,7 @@ hero_darken: true
         <img src="/images/Ivana-Zemberi-Zastita-Klime.png" height="40%" width="40%" alt="Design Solution.">
     </a>
   </figure>
-  <figure class="is-mobile is-hidden-desktop">
+  <figure class="is-mobile is-hidden-tablet is-hidden-desktop">
     <a href="/images/Ivana-Zemberi-Zastita-Klime.png">
         <img src="/images/Ivana-Zemberi-Zastita-Klime.png" alt="Design Solution.">
     </a>
