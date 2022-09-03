@@ -24,9 +24,6 @@ show_sidebar: false
         </div> 
         <div class="is-size-5 block">
         <p align="center">
-        Currently studying Information Systems at University of Zagreb. 
-        </p>
-        <p align="center">
         I enjoy learning new things and designing creative solutions.
         </p>
         <p align="center">
