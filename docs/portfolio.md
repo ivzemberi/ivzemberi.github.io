@@ -17,7 +17,7 @@ hero_darken: true
     <div class="block">
       <a href="/eco-tote-bag/">
         <figure class="image">
-          <img src="/images/tote-bag-project.jpg" alt="Person holding tote bag.">
+          <img src="/images/tote-bag-feature-graphics.jpg" alt="Person holding tote bag.">
         </figure>
         </a>
     </div>
@@ -43,7 +43,7 @@ hero_darken: true
     <div class="block">
       <a href="/aint-wet/">
         <figure class="image">
-          <img src="/svgs/aint-wet.svg" alt="Aint Wet Logo">
+          <img src="/images/aint-wet-feature-graphics.png" alt="Aint Wet">
         </figure>
         </a>
     </div>
@@ -70,7 +70,7 @@ hero_darken: true
     <div class="block">
       <a href="/nanny-finder/">
         <figure class="image">
-          <img src="/svgs/nannyfinder.svg" alt="Nanny Finder Logo">
+          <img src="/images/nanny-finder-feature-graphics.png" alt="Nanny Finder">
         </figure>
         </a>
     </div>
