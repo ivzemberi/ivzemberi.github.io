@@ -16,8 +16,7 @@ hero_darken: true
         <h3 class="is-size-4-mobile">Roles in the project:</h3>
         <p>I worked with two other people on this project. The time limit for completing it was 
         two 90 minutes sessions.</p>
-        <p>
-            Everyone had the same responsibilities which consisted of:
+        Everyone had the same responsibilities which consisted of:
             <ol type="1">
                 <li>Analysing the assigned website: <a href="https://aintwet.nyc/" target="_blank"><strong><font color="blue">Aint Wet</font></strong></a></li>
                 <li>Identifying its problems</li>
