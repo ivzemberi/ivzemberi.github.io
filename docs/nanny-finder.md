@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Android App:"
+title: "Android App"
 subtitle: "Nanny Finder"
 show_sidebar: false
 hero_image: /images/hero-nanny-finder1.png
