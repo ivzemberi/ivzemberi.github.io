@@ -35,9 +35,6 @@ hero_darken: true
         </p>
         <p class="subtitle is-5">Design of a business card for a Freelance Android Developer.</p>
     </div>
-    <div class="block">
-      <p class="subtitle is-6">January 2022</p>
-    </div>
    </div>
    <div class="column">
     <div class="block">
@@ -60,9 +57,6 @@ hero_darken: true
             <span class="tag is-link is-small is-grouped-right">PRODUCT DESIGN</span>
         </p>
         <p class="subtitle is-5">Design of an environmentally friendly tote bag.</p>
-    </div>
-    <div class="block">
-      <p class="subtitle is-6">January 2022</p>
     </div>
   </div>
 </div>
@@ -89,9 +83,6 @@ hero_darken: true
         </p>        
         <p class="subtitle is-5">Redesign of an existing Online Shopping Website.</p>
     </div>
-    <div class="block">
-      <p class="subtitle is-6">March 2021</p>
-    </div>
   </div>
   <div class="column">
     <div class="block">
@@ -114,9 +105,6 @@ hero_darken: true
             <span class="tag is-link is-small is-grouped-right">UX DESIGN</span>
         </p>
         <p class="subtitle is-5">Design of a babysitting app.</p>
-    </div>
-    <div class="block">
-      <p class="subtitle is-6">September 2020 - January 2021</p>
     </div>
   </div>
   </div>
