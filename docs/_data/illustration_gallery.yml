@@ -1,0 +1,62 @@
+- title: My vector illustrations
+  images:
+    - link: /gallery/turtle-dark.png
+      alt: Turtle on dark green background
+      description: Green turtle
+      ratio: is-4by3
+    - link: /gallery/audrey-hepburn.png
+      alt: Audrey Hepburn in a blue coat
+      description: Audrey Hepburn
+      ratio: is-4by3
+    - link: /gallery/town-musicians.png
+      alt: The town musicians of Bremen
+      description: The Town Musicians of Bremen
+      ratio: is-4by3
+    - link: /gallery/flowers-yellow.png
+      alt: Yellow flowers in a jar
+      description: Yellow flowers in a jar
+      ratio: is-4by3
+    - link: /gallery/radio.png
+      alt: Retro radio
+      description: Retro radio
+      ratio: is-4by3
+    - link: /gallery/cheers.png
+      alt: Two champagne glasses
+      description: Clinking glasses
+      ratio: is-4by3
+    - link: /gallery/empty-state-timesheet.png
+      alt: Timesheet, stopwatch and magnifier
+      description: Empty timesheet
+      ratio: is-4by3
+    - link: /gallery/penguin.png
+      alt: Penguin with a hat and a scarf
+      description: Penguin in a hat
+      ratio: is-4by3
+    - link: /gallery/flowers-green.png
+      alt: Flower in a pot
+      description: Flowers
+      ratio: is-4by3
+    - link: /gallery/fishes.png
+      alt: Orange and blue fish
+      description: Two fishes swimming
+      ratio: is-4by3
+    - link: /gallery/whale.png
+      alt: A whale
+      description: A big blue whale
+      ratio: is-4by3
+    - link: /gallery/gold-fish.png
+      alt: A gold fish
+      description: A gold fish
+      ratio: is-4by3
+    - link: /gallery/oranges.png
+      alt: Oranges on a purple background
+      description: A lot of oranges
+      ratio: is-4by3
+    - link: /gallery/woman-illustration.png
+      alt: Woman with dark hair
+      description: A woman
+      ratio: is-4by3
+    - link: /gallery/lemons.png
+      alt: Lemons on a purple background
+      description: A lot of lemons
+      ratio: is-4by3
