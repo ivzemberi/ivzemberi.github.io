@@ -1,8 +1,8 @@
 ---
-title: Portfolio
-layout: page
-show_sidebar: false
-hero_image: /images/lauren-mancke-aOC7TSLb1o8-unsplash.jpg
+title: Portfolio 
+layout: page 
+show_sidebar: false 
+hero_image: /images/lauren-mancke-aOC7TSLb1o8-unsplash.jpg 
 hero_darken: true
 ---
 
@@ -13,6 +13,32 @@ hero_darken: true
 </head>
 
 <div class="columns is-centered block">
+   <div class="column">
+    <div class="block">
+        <a href="/business-cards/">
+            <figure class="image">
+                <img src="/images/business-card-feature-graphics.png" alt="Business cards on a table.">
+            </figure>
+        </a>
+    </div>
+    <div class="block">
+        <div class="columns">
+            <div class="column">
+                <a href="/business-cards/">
+                    <p class="block title is-4">Business Card Design</p>
+                </a>
+            </div>
+        </div>
+        <p class="block">
+            <span class="tag is-link is-small is-grouped-right">VISUAL DESIGN</span>
+            <span class="tag is-link is-small is-grouped-right">BRAND DESIGN</span>
+        </p>
+        <p class="subtitle is-5">Design of a business card for a Freelance Android Developer.</p>
+    </div>
+    <div class="block">
+      <p class="subtitle is-6">January 2022</p>
+    </div>
+   </div>
    <div class="column">
     <div class="block">
       <a href="/eco-tote-bag/">
@@ -39,6 +65,8 @@ hero_darken: true
       <p class="subtitle is-6">January 2022</p>
     </div>
   </div>
+</div>
+<div class="columns is-centered block">
   <div class="column">
     <div class="block">
       <a href="/aint-wet/">
@@ -65,7 +93,6 @@ hero_darken: true
       <p class="subtitle is-6">March 2021</p>
     </div>
   </div>
-
   <div class="column">
     <div class="block">
       <a href="/nanny-finder/">
@@ -86,62 +113,11 @@ hero_darken: true
             <span class="tag is-link is-small is-grouped-right">USER RESEARCH</span>
             <span class="tag is-link is-small is-grouped-right">UX DESIGN</span>
         </p>
-        <p class="subtitle is-5">Design of an app that connects parents with nannies looking for a job, and vice versa.</p>
+        <p class="subtitle is-5">Design of a babysitting app.</p>
     </div>
     <div class="block">
       <p class="subtitle is-6">September 2020 - January 2021</p>
     </div>
   </div>
   </div>
-
-<br><br>
-<h2 class="title">Illustrations</h2>
-<br>
-
-<div class="columns is-centered">
-  <div class="column">
-    <div class="card-image is-square">
-      <figure>
-        <img src="/svgs/flowers-in-a-box.svg" alt="Flowers Illustration">
-      </figure>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card-image is-square">
-      <figure>
-        <img src="/svgs/penguin-in-a-box.svg" alt="Penguin Illustration">
-      </figure>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card-image is-square">
-      <figure>
-        <img src="/svgs/turtle-in-a-box.svg" alt="Turtle Illustration">
-      </figure>
-    </div>
-  </div>
-</div>
-<div class="columns is-centered">
-  <div class="column">
-    <div class="card-image is-square">
-      <figure>
-        <img src="/svgs/whale.svg" alt="Whale Illustration">
-      </figure>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card-image is-square">
-      <figure>
-        <img src="/svgs/fishes.svg" alt="Fish Illustration">
-      </figure>
-    </div>
-  </div>
-    <div class="column">
-    <div class="card-image is-square">
-      <figure>
-        <img src="/svgs/gold-fish.svg" alt="Gold Fish Illustration">
-      </figure>
-    </div>
-  </div>
-</div>
 </html>
