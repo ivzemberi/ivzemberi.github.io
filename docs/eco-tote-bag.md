@@ -58,7 +58,8 @@ hero_darken: true
                 <figure>
                     <img src="/images/kaufland-official-tote-bag.jpg" alt="Official Kaufland tote bag.">
                     <figcaption>
-                        An official Kaufland tote bag. Source: <a href="https://www.instagram.com/p/BwjOGFNn1uq/">https://www.instagram.com/p/BwjOGFNn1uq/</a>
+                        An official Kaufland tote bag. Source: <a href="https://www.instagram.com/p/BwjOGFNn1uq/">
+                        <strong><font color="blue">Instagram post</font></strong></a>
                     </figcaption>
                 </figure>
             </div>
@@ -67,7 +68,7 @@ hero_darken: true
                     <img src="/images/kaufland-reusable-bag.jpg" alt="Kaufland's reusable bag.">
                     <figcaption>
                         An official Kaufland tote bag. Source: <a href="https://www.instagram.com/p/CUupZS5KO33/">
-                        https://www.instagram.com/p/CUupZS5KO33/</a>
+                        <strong><font color="blue">Instagram post</font></strong></a>
                     </figcaption>
                 </figure>
             </div>
@@ -154,7 +155,7 @@ hero_darken: true
                     <figure>
                         <a href="/images/woman-holding-a-tote-bag.png"><img src="/images/woman-holding-a-tote-bag.png" alt="Tote bag Mockup."></a>
                         <figcaption>
-                            <a href='https://www.freepik.com/psd/mockup'>Mockup psd created by freepik - www.freepik.com</a>
+                            <a href='https://www.freepik.com/psd/mockup'><font color="blue"><strong>Mockup psd created by freepik - www.freepik.com</strong></font></a>
                         </figcaption>
                     </figure>
                 </div>
@@ -163,8 +164,10 @@ hero_darken: true
                         <a href="/images/person-sitting-with-a-tote-bag.jpg"><img src="/images/person-sitting-with-a-tote-bag.jpg" alt="Tote bag Mockup."></a>
                         <figcaption>
                             Photo by 
-                            <a href="https://unsplash.com/@mediamodifier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mediamodifier</a> on 
-                            <a href="https://unsplash.com/s/photos/tote-bag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+                            <a href="https://unsplash.com/@mediamodifier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+                            <font color="blue"><strong>Mediamodifier</strong></font></a> on 
+                            <a href="https://unsplash.com/s/photos/tote-bag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+                            <font color="blue"><strong>Unsplash</strong></font></a>
                         </figcaption>
                     </figure>
                 </div>
