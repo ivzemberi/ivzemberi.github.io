@@ -17,7 +17,7 @@ hero_darken: true
     <div class="block">
         <a href="/business-cards/">
             <figure class="image is-4by3">
-                <img src="/images/business-card-feature-graphics-crop.png" alt="Business cards on a table.">
+                <img src="/images/business-card-feature-graphics-crop.png" alt="Business cards on a table." loading="eager">
             </figure>
         </a>
     </div>
@@ -40,7 +40,7 @@ hero_darken: true
     <div class="block">
       <a href="/eco-tote-bag/">
         <figure class="image is-4by3">
-          <img src="/images/tote-bag-feature-graphics.jpg" alt="Person holding tote bag.">
+          <img src="/images/tote-bag-feature-graphics.jpg" alt="Person holding tote bag." loading="eager">
         </figure>
         </a>
     </div>
@@ -65,7 +65,7 @@ hero_darken: true
     <div class="block">
       <a href="/aint-wet/">
         <figure class="image is-4by3">
-          <img src="/images/aint-wet-feature-graphics.png" alt="Aint Wet">
+          <img src="/images/aint-wet-feature-graphics.png" alt="Aint Wet" loading="lazy">
         </figure>
         </a>
     </div>
@@ -88,7 +88,7 @@ hero_darken: true
     <div class="block">
       <a href="/nanny-finder/">
         <figure class="image">
-          <img src="/images/nanny-finder-feature-graphics.png" alt="Nanny Finder">
+          <img src="/images/nanny-finder-feature-graphics.png" alt="Nanny Finder" loading="lazy">
         </figure>
         </a>
     </div>
