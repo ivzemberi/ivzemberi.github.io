@@ -16,8 +16,8 @@ hero_darken: true
    <div class="column">
     <div class="block">
         <a href="/business-cards/">
-            <figure class="image">
-                <img src="/images/business-card-feature-graphics.png" alt="Business cards on a table.">
+            <figure class="image is-4by3">
+                <img src="/images/business-card-feature-graphics-crop.png" alt="Business cards on a table.">
             </figure>
         </a>
     </div>
@@ -39,7 +39,7 @@ hero_darken: true
    <div class="column">
     <div class="block">
       <a href="/eco-tote-bag/">
-        <figure class="image">
+        <figure class="image is-4by3">
           <img src="/images/tote-bag-feature-graphics.jpg" alt="Person holding tote bag.">
         </figure>
         </a>
@@ -64,7 +64,7 @@ hero_darken: true
   <div class="column">
     <div class="block">
       <a href="/aint-wet/">
-        <figure class="image">
+        <figure class="image is-4by3">
           <img src="/images/aint-wet-feature-graphics.png" alt="Aint Wet">
         </figure>
         </a>
