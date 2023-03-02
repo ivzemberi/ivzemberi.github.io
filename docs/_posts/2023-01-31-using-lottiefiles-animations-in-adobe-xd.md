@@ -5,6 +5,8 @@ image: /blog_assets/lottie-adobe.png
 hero_image: /blog_assets/kelly-sikkema-LM17xCofKA0-unsplash.jpg
 hero_darken: true
 ---
+> <a href="https://medium.com/design-bootcamp/using-lottiefiles-animations-in-adobe-xd-d9f4d6906aa6"><span class="tag is-link">Published in Bootcamp</span></a><br>
+> 
 > LottieFiles offers lightweight, scalable animations for all your needs. From ads and social media to websites and apps.
 
 There are a lot of free animations that you can use in your designs. You can also buy premium Lottie animations, and you can create them by yourself.
