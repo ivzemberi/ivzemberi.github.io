@@ -80,6 +80,7 @@ hero_darken: true
         <p class="block">
             <span class="tag is-link is-small is-grouped-right">WEB DESIGN</span>
             <span class="tag is-link is-small is-grouped-right">REDESIGN</span>
+            <span class="tag is-link is-small is-grouped-right">UX DESIGN</span>
         </p>        
         <p class="subtitle is-5">Redesign of an existing Online Shopping Website.</p>
     </div>
@@ -101,6 +102,7 @@ hero_darken: true
             </div>
         </div>
         <p class="block">
+            <span class="tag is-link is-small is-grouped-right">MOBILE DESIGN</span>
             <span class="tag is-link is-small is-grouped-right">USER RESEARCH</span>
             <span class="tag is-link is-small is-grouped-right">UX DESIGN</span>
         </p>
