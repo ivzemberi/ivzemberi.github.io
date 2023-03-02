@@ -36,6 +36,30 @@ hero_darken: true
                 I wrote down everything that came to mind when thinking about climate change and climate protection. For instance, 
                 renewable energy, public transportation, planting trees and similar things found a place on the paper.
             </p>
+            <figure class="is-desktop is-hidden-mobile">
+                <a href="/images/tote-bag-feature-graphics.jpg">
+                    <img src="/images/tote-bag-feature-graphics.jpg" height="60%" width="60%" alt="Person holding a tote bag.">
+                </a>
+                <figcaption>
+                    Photo by 
+                    <a href="https://unsplash.com/@mediamodifier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+                    <font color="blue"><strong>Mediamodifier</strong></font></a> on 
+                    <a href="https://unsplash.com/s/photos/tote-bag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+                    <font color="blue"><strong>Unsplash</strong></font></a>
+                </figcaption> 
+            </figure>
+            <figure class="is-mobile is-hidden-tablet is-hidden-desktop">
+                <a href="/images/tote-bag-feature-graphics.jpg">
+                    <img src="/images/tote-bag-feature-graphics.jpg" alt="Person holding a tote bag.">
+                </a>
+                <figcaption>
+                    Photo by 
+                    <a href="https://unsplash.com/@mediamodifier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+                    <font color="blue"><strong>Mediamodifier</strong></font></a> on 
+                    <a href="https://unsplash.com/s/photos/tote-bag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+                    <font color="blue"><strong>Unsplash</strong></font></a>
+                </figcaption>
+            </figure>
             <h3 class="is-size-4-mobile">Research</h3>
             <p>
                 Brainstorming session put things in motion. There were couple ideas brewing in my head while I moved on to the
