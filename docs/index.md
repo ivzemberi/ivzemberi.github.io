@@ -20,15 +20,13 @@ show_sidebar: false
             <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_jdgp5o5z.json" background="transparent"  speed="1"  style="width: 70px; height: 70px;" loop autoplay></lottie-player>
         </p>
         <div class="is-size-4 block"> 
-            <p align="center"><strong>Hi, I'm Ivana. A UX designer from Croatia.</strong></p>
+            <p align="center"><strong>Hi, I'm Ivana!</strong></p>
         </div> 
         <div class="is-size-5 block">
-        <p align="center">
-        I enjoy learning new things and designing creative solutions.
-        </p>
-        <p align="center">
-        Check out my <a href="/portfolio"><strong>portfolio</strong></a> or learn more 
-        <a href="/about-me"><strong>about me</strong></a>.
+        <p>
+        A UX Designer experienced in front-end development.
+        If I'm not designing, I'm probably reading or writing about it, so check out my <a href="/blog"><strong>blog posts</strong></a>.
+        I also like to draw vector illustrations. You can check them out in my little <a href="/illustrations"><strong>gallery</strong></a>.
         </p>
         </div>
         <div class="has-text-centered">
