@@ -12,7 +12,7 @@ hero_darken: true
       <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
-      <div class="section is-centered" style="text-align: justify; font-size: large">
+      <div class="section is-centered" style="font-size: large">
             <h3 class="is-size-4-mobile">Project Summary</h3>
             <p>In January 2022. Kaufland Croatia published a design competition
             for students under the slogan: 

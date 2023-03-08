@@ -11,7 +11,7 @@ hero_darken: true
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <div class="section is-centered" style="text-align: justify; font-size: large">
+    <div class="section is-centered" style="font-size: large">
         <h3 class="is-size-4-mobile">Project Summary</h3>
         <p>I was the sole designer on this project which required designing a business card for a Freelance Android Developer.
         The task was to create a design containing important information and to fit it on a small 2.75" x 1.10" card.

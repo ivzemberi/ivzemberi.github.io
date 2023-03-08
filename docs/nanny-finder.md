@@ -13,7 +13,7 @@ hero_darken: true
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <div class="section is-centered" style="text-align: justify; font-size: large">
+    <div class="section is-centered" style="font-size: large">
         <h3 class="is-size-4-mobile">Roles in the project:</h3>
         <p>
             I was in a team with two other people. It was our first design project and everyone had

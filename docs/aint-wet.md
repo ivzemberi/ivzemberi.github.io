@@ -12,7 +12,7 @@ hero_darken: true
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <div class="section is-centered" style="text-align: justify; font-size: large">
+    <div class="section is-centered" style="font-size: large">
         <h3 class="is-size-4-mobile">Roles in the project:</h3>
         <p>I worked with two other people on this project. The time limit for completing it was 
         two 90 minutes sessions.</p>
