@@ -15,7 +15,7 @@ hero_darken: true
       <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
-      <div class="section is-centered">
+      <div class="section is-centered" style="font-size: large">
             <h3 id="about-project" class="is-size-4-mobile">About Project</h3>
                 <p>
                     dateo is a reminder app currently being developed for both Android and iOS 
