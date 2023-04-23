@@ -267,7 +267,7 @@ hero_darken: true
                 design system, I followed the <a href ="https://atomicdesign.bradfrost.com/" target="_blank">
                 <font color="brown"><strong>Atomic Design</strong></font></a> guidebook. Because of that 
                 groundwork, further work and needed modifications should be easier to complete. Hopefully, 
-                that will also help this design system stand the test of time. . 
+                that will also help this design system stand the test of time.
                 </p>
       </div>
 
