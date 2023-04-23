@@ -8,6 +8,7 @@ show_sidebar: false
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ivana Žemberi</title>
+    <meta name="description" content="Hi, my name is Ivana. I'm a UX Designer, interested in front-end development."/>
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   </head>
   <body>
