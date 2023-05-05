@@ -1,62 +1,134 @@
 - title: My vector illustrations
   images:
+    - link: /gallery/gilmore-girls.png
+      alt: Lorelai and Rory Gilmore on the couch
+      description: |- 
+        <div align="center">Gilmore Girls · 2023</div>
+        <div align="center">
+          <span class="tag is-rounded">Wacom Tablet</span>
+          <span class="tag is-rounded">Inkscape</span>
+        </div>
+      ratio: is-4by3
     - link: /gallery/turtle-dark.png
       alt: Turtle on dark green background
-      description: Green turtle drawn using Adobe Illustrator
+      description: |-
+        <div align="center">Green Turtle · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/audrey-hepburn.png
       alt: Audrey Hepburn in a blue coat
-      description: Audrey Hepburn drawn using Wacom Tablet and Adobe Illustrator
+      description: |-
+        <div align="center">Audrey Hepburn · 2022</div>
+        <div align="center">
+          <span class="tag is-rounded">Wacom Tablet</span>
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/town-musicians.png
       alt: The town musicians of Bremen
-      description: The Town Musicians of Bremen drawn using Adobe Illustrator
+      description: |-
+        <div align="center">The Town Musicians of Bremen · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/flowers-yellow.png
       alt: Yellow flowers in a jar
-      description: Flowers drawn using Wacom Tablet and Adobe Illustrator
+      description: |-
+        <div align="center">Yellow Flowers · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Wacom Tablet</span>
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/radio.png
       alt: Retro radio
-      description: Retro radio drawn using Adobe Illustrator
+      description: |-
+        <div align="center">Retro Radio · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/cheers.png
       alt: Two champagne glasses
-      description: Clinking glasses drawn using Adobe Illustrator
+      description: |- 
+        <div align="center">Champagne Glasses · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Wacom Tablet</span>
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/empty-state-timesheet.png
       alt: Timesheet, stopwatch and magnifier
-      description: Empty timesheet drawn using Adobe Illustrator
+      description: |-
+        <div align="center">Empty Timesheet · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/penguin.png
       alt: Penguin with a hat and a scarf
-      description: Penguin in a hat drawn using Adobe Illustrator
+      description: |-
+        <div align="center">Penguin in a Hat · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/flowers-green.png
       alt: Flower in a pot
-      description: Flowers drawn using Adobe Illustrator
+      description: |-
+        <div align="center">A Flower Pot · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/fishes.png
       alt: Orange and blue fish
-      description: Fishes swimming drawn using Adobe Illustrator
+      description: |-
+        <div align="center">Fishes · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/whale.png
       alt: A whale
-      description: Blue whale drawn using Adobe Illustrator
+      description: |-
+        <div align="center">Blue Whale · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/gold-fish.png
       alt: A gold fish
-      description: A gold fish drawn using Adobe Illustrator
+      description: |-
+        <div align="center">A Gold Fish · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Adobe Illustrator</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/oranges.png
       alt: Oranges on a purple background
-      description: Oranges drawn using Inkscape
+      description: |-
+        <div align="center">Oranges · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Inkscape</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/woman-illustration.png
       alt: Woman with dark hair
-      description: A woman drawn using Inkscape
+      description: |-
+        <div align="center">A Woman · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Inkscape</span>
+        </div>
       ratio: is-4by3
     - link: /gallery/lemons.png
       alt: Lemons on a purple background
-      description: Lemons drawn using Inkscape
+      description: |-
+        <div align="center">Lemons · 2021</div>
+        <div align="center">
+          <span class="tag is-rounded">Inkscape</span>
+        </div>
       ratio: is-4by3
