@@ -25,7 +25,8 @@ show_sidebar: false
         </div> 
         <div class="is-size-5 block">
         <p>
-        A UX Designer experienced in front-end development.
+        A UX Designer experienced in front-end development. Currently doing my master's degree in Digital Media at 
+        <a href="https://www.uni-bremen.de/en/"><strong>Uni Bremen</strong></a> and <a href="https://www.hfk2020.de/en/"><strong>Hfk Bremen</strong></a>.
         If I'm not designing, I'm probably reading or writing about it, so check out my <a href="/blog"><strong>blog posts</strong></a>.
         I also like to draw vector illustrations. You can check them out in my little <a href="/illustrations"><strong>gallery</strong></a>.
         </p>
