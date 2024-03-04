@@ -15,6 +15,58 @@ hero_darken: true
 <div class="columns is-centered block">
    <div class="column">
     <div class="block">
+      <a href="/whodunit/">
+        <figure class="image is-4by3">
+          <img src="/images/whodunit-feature-graphics.png" alt="whodunit game mockups." loading="eager">
+        </figure>
+        </a>
+    </div>
+    <div class="block">
+        <div class="columns">
+            <div class="column">
+                <a href="/whodunit/">
+                <p class="block title is-4">Flutter App - Chat Murder Mystery Game</p>
+                </a>
+            </div>
+        </div>
+        <p class="block">
+            <span class="tag is-link is-small is-grouped-right">FLUTTER</span>
+            <span class="tag is-link is-small is-grouped-right">DART</span>
+            <span class="tag is-link is-small is-grouped-right">ChatGPT</span>
+            <span class="tag is-link is-small is-grouped-right">UX/UI DESIGN</span>
+        </p>
+        <p class="subtitle is-5">whodunit is a game that enables you to chat with characters from a book in order to solve a murder mystery.</p>
+    </div>
+   </div>
+   <div class="column">
+    <div class="block">
+        <a href="/maps+/">
+            <figure class="image is-4by3">
+                <img src="/images/maps+feature-graphics.png" alt="Navigation app mockups." loading="eager">
+            </figure>
+        </a>
+    </div>
+    <div class="block">
+        <div class="columns">
+            <div class="column">
+                <a href="/maps+/">
+                    <p class="block title is-4">Maps+ Design</p>
+                </a>
+            </div>
+        </div>
+        <p class="block">
+            <span class="tag is-link is-small is-grouped-right">UX/UI DESIGN</span>
+            <span class="tag is-link is-small is-grouped-right">UX RESEARCH</span>
+            <span class="tag is-link is-small is-grouped-right">VISUAL DESIGN</span>
+        </p>
+        <p class="subtitle is-5">Design of features for pedestrian navigation app that aim to enhance the user's competence.</p>
+    </div>
+   </div>
+</div>
+<br>
+<div class="columns is-centered block">
+   <div class="column">
+    <div class="block">
       <a href="/dateo-design-system/">
         <figure class="image is-4by3">
           <img src="/images/dateo-design-system-feature-graphics.png" alt="Material 3 and Dateo Design System." loading="eager">
