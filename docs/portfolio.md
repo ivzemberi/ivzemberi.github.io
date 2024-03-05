@@ -35,7 +35,7 @@ hero_darken: true
             <span class="tag is-link is-small is-grouped-right">ChatGPT</span>
             <span class="tag is-link is-small is-grouped-right">UX/UI DESIGN</span>
         </p>
-        <p class="subtitle is-5">whodunit is a game that enables you to chat with characters from a book in order to solve a murder mystery.</p>
+        <p class="subtitle is-5">A game that enables you to chat with characters from a book in order to solve a murder mystery.</p>
     </div>
    </div>
    <div class="column">
