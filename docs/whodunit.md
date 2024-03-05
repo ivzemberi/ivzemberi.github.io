@@ -51,12 +51,14 @@ hero_darken: true
         <figure class="is-desktop is-hidden-mobile">
         <a href="/images/whodunit-features.png">
             <img src="/images/whodunit-features.png" height="60%" width="60%" alt="App features displayed.">
+            <figcaption>App Features accessible from the Home Screen, or the "Living Room"</figcaption>
         </a>
         </figure>
         <figure class="is-mobile is-hidden-tablet is-hidden-desktop">
             <a href="/images/whodunit-features.png">
                 <img src="/images/whodunit-features.png" alt="App features displayed.">
             </a>
+            <figcaption>App Features accessible from the Home Screen, or the "Living Room"</figcaption>
         </figure>
     </div>
     <div class="section is-centered" style="font-size: large">
