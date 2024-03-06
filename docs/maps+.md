@@ -95,15 +95,15 @@ hero_darken: true
         <div class="column" style="text-align:justify">
             <h3 class="is-size-4-mobile">References</h3>
             <ol>
-                <li>Tavanti, M. and Lind, M. (2001). 2D vs 3D, implications on spatial memory.
+                <li style="word-break:break-all">Tavanti, M. and Lind, M. (2001). 2D vs 3D, implications on spatial memory.
                 <strong><a href="https://doi.org/10.1109/infvis.2001.963291">doi:https://doi.org/10.1109/infvis.2001.963291</a></strong>.</li>
-                <li>Parra-Barrero, E., Sandhiya Vijayabaskaran, Seabrook, E., Laurenz Wiskott and Cheng, S. (2023). 
+                <li style="word-break:break-all">Parra-Barrero, E., Sandhiya Vijayabaskaran, Seabrook, E., Laurenz Wiskott and Cheng, S. (2023). 
                 A Map of Spatial Navigation for Neuroscience. pp.105200–105200. 
                 <strong><a href="https://doi.org/10.1016/j.neubiorev.2023.105200">doi:https://doi.org/10.1016/j.neubiorev.2023.105200</a></strong>.</li>
-                <li>Liu, B. and Zhan, Z. (2021). Work-in-Progress–—Improve Spatial Learning by Chunking Navigation Instructions in Mixed Reality. 
+                <li style="word-break:break-all">Liu, B. and Zhan, Z. (2021). Work-in-Progress–—Improve Spatial Learning by Chunking Navigation Instructions in Mixed Reality. 
                 2021 7th International Conference of the Immersive Learning Research Network (iLRN). 
                 <strong><a href="https://doi.org/10.23919/ilrn52045.2021.9459396">doi:https://doi.org/10.23919/ilrn52045.2021.9459396</a></strong>.</li>
-                <li>Stromberg, J. (2015). Is GPS ruining our ability to navigate for ourselves? [online] Vox. Available at: 
+                <li style="word-break:break-all">Stromberg, J. (2015). Is GPS ruining our ability to navigate for ourselves? [online] Vox. Available at: 
                 <strong><a href="https://www.vox.com/2015/9/2/9242049/gps-maps-navigation">https://www.vox.com/2015/9/2/9242049/gps-maps-navigation</a></strong>.</li>
             </ol>
         </div>
