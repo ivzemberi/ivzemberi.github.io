@@ -15,7 +15,7 @@ hero_darken: true
     <div class="section is-centered" style="font-size: large">
         <h3 class="is-size-4-mobile">Project Summary</h3>
         <div class="columns is-centered">
-            <div class="column is-one-third">
+            <div class="column is-one-third" style="text-align:justify">
                 <p>Maps+ features aim to improve users spatial navigation abilities. The main goal of this design solution is to
                 make the user more independent and to rely less on navigational apps. 
                 </p>
@@ -38,17 +38,17 @@ hero_darken: true
         </div>
         <div style="font-size: large">
         <h3 class="is-size-4-mobile">Maps+ Features</h3>
-        <p>Constant use of GPS devices can cause our navigational skills to atrophy. To avoid that, 
+        <p style="text-align:justify">Constant use of GPS devices can cause our navigational skills to atrophy. To avoid that, 
         Maps+ is designed to subtly teach you how to be better at navigation while you're using it.
         </p>
-        <p>Because research has shown that 3D displays can better assist spatial cognitive abilities, 
+        <p style="text-align:justify">Because research has shown that 3D displays can better assist spatial cognitive abilities, 
         the users see 3-dimensional map instead of the regular one. By highlighting user's surroundings 
         (place on the map) they'll make quicker decisions in choosing the right way and also remember the 
         paths that they've taken before. By using city landmarks as reference points, the users can put things 
         into perspective more easily. By creating their personal landmarks they're providing themselves with several
         reference points when taking completely new routes.
         </p>
-        <p>Maps+ goal is to lead the users to their destination but it also enables them to
+        <p style="text-align:justify">Maps+ goal is to lead the users to their destination but it also enables them to
         personalise their map with landmarks special to them and to create their own routes.
         Which will after some time help them with relying less on their phone and eventually 
         become their own guides.
@@ -92,7 +92,7 @@ hero_darken: true
                 </div>
             </ul>
         </div>
-        <div class="column">
+        <div class="column" style="text-align:justify">
             <h3 class="is-size-4-mobile">References</h3>
             <ol>
                 <li>Tavanti, M. and Lind, M. (2001). 2D vs 3D, implications on spatial memory.
